@@ -1,0 +1,2 @@
+# lognet
+LogNet Server Starting
